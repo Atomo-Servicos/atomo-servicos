@@ -98,7 +98,7 @@ Contamos com um time interno de desenvolvimento focado em criar e manter soluç�
 
 <div align="center">
 
-**© 2009–2025 Átomo Serviços e Automação — Aracaju, Sergipe**
+**© 2009–2026 Átomo Serviços e Automação — Aracaju, Sergipe**
 
 _Conectando o comércio nordestino à tecnologia há mais de 15 anos._
 
