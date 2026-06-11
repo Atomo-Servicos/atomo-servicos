@@ -43,8 +43,6 @@ Nossa missão é transformar o dia a dia do comércio regional por meio de tecno
 - 🍕 Bares, restaurantes e food service
 - 👗 Varejo em geral (confecções, calçados, bijuterias)
 - 🏗️ Materiais de construção e distribuidoras
-- 💊 Farmácias
-- ⛽ Postos de combustíveis
 - 🏢 Outros segmentos do comércio regional
 
 ---
